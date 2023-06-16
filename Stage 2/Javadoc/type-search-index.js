@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"AuctionItem"},{"p":"<Unnamed>","l":"BuyerClient"},{"p":"<Unnamed>","l":"Client"},{"p":"<Unnamed>","l":"Item"},{"p":"<Unnamed>","l":"ItemListing"},{"p":"<Unnamed>","l":"SellerClient"},{"p":"<Unnamed>","l":"Server"},{"p":"<Unnamed>","l":"User"}];updateSearchResults();
